@@ -145,4 +145,14 @@ public class WebEventListener extends TestBase implements WebDriverEventListener
 		
 	}
 
+	public void beforeGetText(WebElement element, WebDriver driver) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void afterGetText(WebElement element, WebDriver driver, String text) {
+		// TODO Auto-generated method stub
+		
+	}
+
 }

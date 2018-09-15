@@ -12,5 +12,5 @@
       <class name="com.crm.qa.testcases.HomePageTest"/>
       <class name="com.crm.qa.testcases.ContactsPageTest"/>
     </classes>
- </test>
+  </test>
 </suite>
